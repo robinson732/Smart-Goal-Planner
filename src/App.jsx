@@ -53,11 +53,11 @@ function App() {
         💰 Smart Goal Planner
       </h1>
 
-      <OverviewPanel goals={goals} />
+      <OverviewPanel goals={goals}  />
 
       <div className="grid md:grid-cols-2 gap-6 my-8">
         <GoalForm onAddGoal={handleAddGoal} />
-        <DepositForm goals={goals} onDeposit={handleDeposit} />
+        <DepositForm goals={goals} onAddDeposit={handleDeposit} />
       </div>
 
       <h2 className="text-2xl font-semibold mt-6 mb-4">Your Goals</h2>

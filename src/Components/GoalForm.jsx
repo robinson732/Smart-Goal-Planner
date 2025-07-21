@@ -8,7 +8,7 @@ function GoalForm({ onAddGoal }) {
   const [deadline, setDeadline] = useState("");
 
   function handleSubmit(e) {
-    e.preventDefault(); // 👈 not prevantDefault 😅
+    e.preventDefault(); 
 
     const newGoal = {
       name,
@@ -28,7 +28,7 @@ function GoalForm({ onAddGoal }) {
     })
       .then((res) => res.json())
       .then((data) => {
-        onAddGoal(data); // 👈 tell parent to add new goal
+        onAddGoal(data);
         setName("");
         setTargetAmount("");
         setCategory("");

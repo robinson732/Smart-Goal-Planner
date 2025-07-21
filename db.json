@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Travel Fund - Japan",
       "targetAmount": 5000,
-      "savedAmount": 3200,
+      "savedAmount": 3342,
       "category": "Travel",
       "deadline": "2025-12-31",
       "createdAt": "2024-01-15"
@@ -58,7 +58,7 @@
       "id": "7",
       "name": "Holiday Gifts",
       "targetAmount": 1000,
-      "savedAmount": 200,
+      "savedAmount": 323,
       "category": "Shopping",
       "deadline": "2024-08-10",
       "createdAt": "2024-07-01"
@@ -85,13 +85,13 @@
       "id": "10",
       "name": "Home Renovation",
       "targetAmount": 7500,
-      "savedAmount": 1000,
+      "savedAmount": 1123,
       "category": "Home",
       "deadline": "2025-03-31",
       "createdAt": "2024-05-15"
     },
     {
-      "id": "128d",
+      "id": "1d",
       "name": "rtszs",
       "targetAmount": 1234,
       "category": "hshush",
@@ -115,12 +115,76 @@
       "createdAt": "2025-07-20T18:30:54.135Z"
     },
     {
-      "id": "84ee",
+      "id": "8ee",
       "name": "bhszgzg",
       "targetAmount": 253452,
       "category": "hxhzgz",
       "deadline": "3883-08-22",
       "createdAt": "2025-07-20T18:30:54.135Z"
+    },
+    {
+      "id": "fb04",
+      "name": "huh",
+      "targetAmount": 77,
+      "category": "bhb",
+      "deadline": "2006-07-12",
+      "createdAt": "2025-07-21T06:36:21.088Z"
+    },
+    {
+      "id": "04",
+      "name": "huh",
+      "targetAmount": 77,
+      "category": "bhb",
+      "deadline": "2006-07-12",
+      "createdAt": "2025-07-21T06:36:21.088Z"
+    },
+    {
+      "id": "fb63",
+      "name": "ss",
+      "targetAmount": 12,
+      "category": "ss",
+      "deadline": "2006-01-11",
+      "createdAt": "2025-07-21T06:36:56.097Z"
+    },
+    {
+      "id": "b63",
+      "name": "ss",
+      "targetAmount": 12,
+      "category": "ss",
+      "deadline": "2006-01-11",
+      "createdAt": "2025-07-21T06:36:56.097Z"
+    },
+    {
+      "id": "e",
+      "name": "jhuhu",
+      "targetAmount": 123,
+      "category": "jahs",
+      "deadline": "0022-11-12",
+      "createdAt": "2025-07-21T07:38:22.136Z"
+    },
+    {
+      "id": "8547",
+      "name": "hs",
+      "targetAmount": null,
+      "category": "",
+      "deadline": "",
+      "createdAt": "2025-07-21T08:06:20.436Z"
+    },
+    {
+      "id": "ceaf",
+      "name": "wtw",
+      "targetAmount": 123,
+      "category": "whs",
+      "deadline": "2018-12-12",
+      "createdAt": "2025-07-21T08:34:36.821Z"
+    },
+    {
+      "id": "ceaf",
+      "name": "wtw",
+      "targetAmount": 123,
+      "category": "whs",
+      "deadline": "2018-12-12",
+      "createdAt": "2025-07-21T08:34:36.821Z"
     }
   ],
   "deposits": [
@@ -183,6 +247,259 @@
       "goalId": "10",
       "amount": 1000,
       "date": "2024-07-01T09:30:00Z"
+    },
+    {
+      "id": "3120",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "0afb",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "6940",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "10b3",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "6c76",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "f565",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "ab98",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "2772",
+      "amount": 222,
+      "date": "2222-02-22"
+    },
+    {
+      "id": "57a3",
+      "amount": 11,
+      "date": "2333-02-22"
+    },
+    {
+      "id": "5253",
+      "amount": 11,
+      "date": "2333-02-22"
+    },
+    {
+      "id": "8221",
+      "amount": 11,
+      "date": "2333-02-22"
+    },
+    {
+      "id": "022c",
+      "amount": 11,
+      "date": "2333-02-22"
+    },
+    {
+      "id": "d38c",
+      "amount": 111,
+      "date": "0223-04-12"
+    },
+    {
+      "id": "5072",
+      "amount": 111,
+      "date": "0223-04-12"
+    },
+    {
+      "id": "8463",
+      "amount": 111,
+      "date": "0223-04-12"
+    },
+    {
+      "id": "40b6",
+      "amount": 111,
+      "date": "0223-04-12"
+    },
+    {
+      "id": "6750",
+      "amount": 123,
+      "date": "2222-02-12"
+    },
+    {
+      "id": "85de",
+      "amount": 123,
+      "date": "2222-02-12"
+    },
+    {
+      "id": "1fb2",
+      "amount": 123,
+      "date": "2222-02-12"
+    },
+    {
+      "id": "a5cb",
+      "amount": 123,
+      "date": "2222-02-12"
+    },
+    {
+      "id": "18ef",
+      "amount": 123,
+      "date": "3332-03-12"
+    },
+    {
+      "id": "80ff",
+      "amount": 123,
+      "date": "3332-03-12"
+    },
+    {
+      "id": "623e",
+      "amount": 123,
+      "date": "3332-03-12"
+    },
+    {
+      "id": "7889",
+      "amount": 123,
+      "date": "3332-03-12"
+    },
+    {
+      "id": "3276",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "06c0",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "d122",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "f929",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "d5b8",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "a6d4",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "8652",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "c02b",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "6d20",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "c8ea",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "ee8e",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "2956",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "8b49",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "6707",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "0a44",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "2a6b",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "b457",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "cba0",
+      "amount": 12,
+      "date": "2024-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "0975",
+      "amount": 132,
+      "date": "2022-12-12T00:00:00.000Z"
+    },
+    {
+      "id": "2268",
+      "amount": 123,
+      "date": "1014-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "2333",
+      "amount": 123,
+      "date": "1014-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "7815",
+      "amount": 123,
+      "date": "1014-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "d394",
+      "amount": 123,
+      "date": "1014-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "a72a",
+      "amount": 123,
+      "date": "2022-02-12T00:00:00.000Z",
+      "goalId": "10"
+    },
+    {
+      "id": "7234",
+      "amount": 123,
+      "date": "2020-02-12T00:00:00.000Z",
+      "goalId": "7"
+    },
+    {
+      "id": "6523",
+      "amount": 142,
+      "date": "1023-09-12T00:00:00.000Z",
+      "goalId": "1"
     }
   ]
 }
